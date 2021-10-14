@@ -41,3 +41,15 @@ h5 {
   align-content: center;
   justify-items: center;
 }
+
+.form {
+  display: grid;
+  gap: 1rem;
+}
+
+.submitButton {
+  background-color: lightseagreen;
+  border-radius: 0.5rem;
+  font-family: var(--font-family);
+  border: none;
+}
