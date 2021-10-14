@@ -42,7 +42,7 @@ h5 {
   justify-items: center;
 }
 
-.submission {
+.form {
   display: grid;
   gap: 1rem;
 }
